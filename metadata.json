@@ -1,0 +1,6 @@
+{
+  "name": "Vantara Premium Water",
+  "description": "Pure by Nature, Better for Tomorrow. Order premium packaged drinking water with doorstep delivery in Tadepalligudem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
